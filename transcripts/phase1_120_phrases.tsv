@@ -1,0 +1,121 @@
+genre	utterance_id	phase2_role	has_spoken_gold	has_sung_gold	text
+borgeet	b10_1	test_S1	yes	yes	ত্ৰিভুবন জিনি
+borgeet	b10_2	test_S1	yes	yes	বৃন্দাবন পৰকাশে
+borgeet	b11_1	test_S1	yes	yes	বেদ শিৰোমণি যাৰ
+borgeet	b11_2	test_S1	yes	yes	চৰণে বিৰাজে
+borgeet	b12_1	test_S1	no	no	সোহি প্ৰভু গোপৰূপে
+borgeet	b12_2	test_S1	no	no	বালকেৰ মাজে
+borgeet	b13_1	test_S1	no	no	ভকত বৎসল হৰি
+borgeet	b13_2	test_S1	no	no	বিনে নাহি কোই
+borgeet	b14_1	test_S1	no	no	কহয় মাধৱ ৰঙ্গা
+borgeet	b14_2	test_S1	no	no	পদে গতি মোই
+borgeet	b1_1	test_S1	no	no	গোবিন্দ চলয়ে বিৰিন্দাবনে
+borgeet	b1_2	test_S1	no	no	গোপ শিশু সঙ্গে
+borgeet	b2_1	test_S1	no	no	বজায়া মোহন বেণু
+borgeet	b2_2	test_S1	no	no	ধেনু ধায় ৰঙ্গে
+borgeet	b3_1	test_S1	no	no	সকল বালক মাজে
+borgeet	b3_2	test_S1	no	no	কানাই সুন্দৰ
+borgeet	b4_1	test_S1	no	no	ভুবন মোহন
+borgeet	b4_2	test_S1	no	no	শ্যাম ৰূপে মনোহৰ
+borgeet	b5_1	test_S1	no	no	গগন মণ্ডল
+borgeet	b5_2	test_S1	no	no	পূৰে শিঙা বেণু ৰোলে
+borgeet	b6_1	test_S1	no	no	আভীৰ বালকে বেঢ়ি
+borgeet	b6_2	test_S1	no	no	জয় হৰি বোল
+borgeet	b7_1	test_S1	no	no	কেহো বোলে ৰাম
+borgeet	b7_2	test_S1	no	no	কেহো বোলে জয় হৰি
+borgeet	b8_1	test_S1	no	no	উচ্ছায়া পাঞ্চনী ধায়
+borgeet	b8_2	test_S1	no	no	বৎস পুচ্ছ ধৰি
+borgeet	b9_1	test_S1	no	no	কেহো গায় কেহো বায়
+borgeet	b9_2	test_S1	no	no	কেহো নাচে হাসে
+dulori	1dulori_1	test_S1	yes	yes	দ্বাৰকা নগৰ যান্ত দামোদৰ
+dulori	1dulori_2	test_S1	yes	yes	কৰি অতি বহু ৰঙ্গ
+dulori	2dulori_1	test_S1	yes	yes	সোণাৰ আস্ফোট নাচে নটী নট
+dulori	2dulori_2	test_S1	yes	yes	বাজয় তাল মৃদঙ্গ
+dulori	3dulori_1	test_S1	no	no	দ্বাৰকা নগৰে লোক নিৰন্তৰে
+dulori	3dulori_2	test_S1	no	no	জানিলা আসন্ত ছবি
+dulori	4dulori_1	test_S1	no	no	সবান্ধৱে আসে পৰম উল্লাসে
+dulori	4dulori_2	test_S1	no	no	হাতে দাপ ঘট ধৰি
+dulori	5dulori_1	test_S1	no	no	উষা অনিৰুদ্ধ বিবাহ প্ৰসিদ্ধ
+dulori	5dulori_2	test_S1	no	no	কৰাইলা বংশ যতেক
+dulori	6dulori_1	test_S1	no	no	চিত্ৰলেখা পদ বিবহ আমোদ
+dulori	6dulori_2	test_S1	no	no	কৰাইলা হৰি প্ৰত্যেক
+poyar	1poyar_1	test_S1	yes	yes	জয় জয় গণেশ্বৰ
+poyar	1poyar_2	test_S1	yes	yes	জয় দিনকৰ
+poyar	2poyar_1	test_S1	yes	yes	জয় দামোদৰ জয়
+poyar	2poyar_2	test_S1	yes	yes	জয় মহেশ্বৰ
+poyar	3poyar_1	test_S1	no	no	জয় মহালক্ষ্মী দেৱী
+poyar	3poyar_2	test_S1	no	no	জয় সৰস্বতী
+poyar	4poyar_1	test_S1	no	no	একবাৰে সবাহাঙ্কে
+poyar	4poyar_2	test_S1	no	no	কৰোহোঁ প্ৰণতি
+poyar	5poyar_1	test_S1	no	no	জয় নমো কৃষ্ণ বিষ্ণু
+poyar	5poyar_2	test_S1	no	no	বৈকুণ্ঠ মাধৱ
+poyar	6poyar_1	test_S1	no	no	জয় ত্ৰিজগত পতি
+poyar	6poyar_2	test_S1	no	no	জগত বান্ধৱ
+sobi	10sobi_1	test_S1	yes	yes	চিন্তা এৰা মহাদেৱী লভিবা আপোন স্বামী
+sobi	10sobi_2	test_S1	yes	yes	পৰম পুৰুষ শুদ্ধমতি
+sobi	1sobi_1	test_S1	yes	yes	হৰক দেখিলা বালা কপালত চন্দ্ৰকলা
+sobi	1sobi_2	test_S1	yes	yes	গাৱে দোলে বাসুকিৰ মালা
+sobi	2sobi_1	test_S1	no	no	পৰিধান বাঘছাল তিনিগোটা চক্ষু ভাল
+sobi	2sobi_2	test_S1	no	no	চন্দ্ৰ সূৰ্য্য অগনিৰ জ্বালা
+sobi	3sobi_1	test_S1	no	no	শ্বেতবৰ্ণ কলেৱৰ ফটিকতে ৰুচিকৰ
+sobi	3sobi_2	test_S1	no	no	শিৰে গঙ্গা কৰন্ত প্ৰকাশ
+sobi	4sobi_1	test_S1	no	no	দুৰ্গাদেৱী মনোৰঙ্গে আনন্দতো মন মগ্নে
+sobi	4sobi_2	test_S1	no	no	আলিঙ্গি ধৰি তুলি হাস
+sobi	5sobi_1	test_S1	no	no	ধৰি আনি অৱিকলে অতিবৰ কৌতূহলে
+sobi	5sobi_2	test_S1	no	no	বদন চুম্বন্ত ৰঙ্গ মনে
+sobi	6sobi_1	test_S1	no	no	দেখিলেক ঊষা যাই দৃষ্টি ভৰি আছে চাই
+sobi	6sobi_2	test_S1	no	no	আনন্দে পূৰিত সৰ্বক্ষণ
+sobi	7sobi_1	test_S1	no	no	ভৈল অৱনত ভাৱ নমিয়া গৌৰীৰ পাৱ
+sobi	7sobi_2	test_S1	no	no	জানুশিৰে পৰিল ভূমিত
+sobi	8sobi_1	test_S1	no	no	ঊষাৰ দেখিয়া ভাৱ সাম্বুধিলা জগমাৱ
+sobi	8sobi_2	test_S1	no	no	হাসি হাসি বোলন্ত উচিত
+sobi	9sobi_1	test_S1	no	no	তোমাকে বৰিবে স্বামী স্বৰূপে বুলিলোঁ আমি
+sobi	9sobi_2	test_S1	no	no	অল্পকালে পাইবা তুমি পতি
+sutra	s1	test_S1	yes	yes	আহে লোকাই সে গোসানী দেৱী ৰুকমিণী ঐচন প্ৰৱেশ কয় কহুঁ এক পাশ হুয়া ৰহল
+sutra	s10	test_S1	yes	yes	কৃষ্ণক প্ৰসাদ পায়া চিৰঞ্জীৱ চিৰঞ্জীৱ গোসাঞি বুলি সুৰভি সন্তোষে নিজ দেশে চলি গেল
+sutra	s11_1	test_S1	yes	yes	ভিক্ষুক মুখে ৰুকমিণীক ৰূপ গুণ শুনিয়ে শ্ৰীকৃষ্ণ আন চিন্তা সব
+sutra	s11_2	test_S1	yes	yes	ছোড়ি ৰাত্ৰি দিৱসে ৰুকমিণীক মাত্ৰ ধ্যান কয়ে ৰহল যৈচে
+sutra	s11_3	test_S1	no	no	তা দেখহ শুনহ নিৰন্তৰে হৰি বোল হৰি বোল
+sutra	s12_1	test_S1	no	no	ওহি প্ৰকাৰে শ্ৰীকৃষ্ণ প্ৰিয়াক বিৰহানলে আকুল হুয়া হা ৰুকমিণী হা ৰুকমিণী মাত্ৰ
+sutra	s12_2	test_S1	no	no	বাক্য ফোকাৰি কহু ৰুকমিণীময় মাত্ৰ দেখিয়ে সৰ্বথা ৰহল
+sutra	s13	test_S1	no	no	আহে লোক তদনন্তৰ ৰুকমিণীক বৃত্তান্ত শুনহ
+sutra	s14	test_S1	no	no	দ্বাৰিকাহন্তে হৰিদাস নাম এক ভিক্ষুক ভাট কুণ্ডিন গৈয়া ৰাজনন্দিনীক দৰশন ভেল
+sutra	s15	test_S1	no	no	তাহে দেখিয়ে বাত পুছত
+sutra	s2_1	test_S1	no	no	তদনন্তৰ প্ৰস্তুত কথা শুনহ সুৰভি নামে এক ভিক্ষুক ভাট কুণ্ডিল নগৰী হন্তে
+sutra	s2_2	test_S1	no	no	আসি কহুঁ কৃষ্ণৰ ভেট পাৱল তাহে পেখিয়ে শ্ৰীকৃষ্ণ বাত পুছত
+sutra	s3	test_S1	no	no	অএ ভিক্ষুক তোহোকে কোথা হন্তেথা আৱলি থিক
+sutra	s4	test_S1	no	no	হামু সুৰভি নাম ভাট কুণ্ডিন হন্তে তোহাক দৰশন নিমিত্ত আৱলি থিক
+sutra	s5	test_S1	no	no	আঃ তোহাৰ অপৰূপ ৰূপ সম্পত্তিক মহিমা কি কহব
+sutra	s6_1	test_S1	no	no	হে স্বামী কৃষ্ণ হামাৰ ৰাজনন্দিনী ৰুকমিণী যৱ তোহাৰ গৃহিণী হয় তৱ তোহাৰ
+sutra	s6_2	test_S1	no	no	গৃহবাস সব সাম্ফল হোৱয় সে ৰুকমিণীক ৰূপ গুণ কিছু কহবো তা শুনহ
+sutra	s7_1	test_S1	no	no	তদনন্তৰ ৰুকমিণীক ৰূপ গুণ শুনিয়ে শ্ৰীকৃষ্ণ হেঠ মাথ কয় নিশ্বাস ফোকাৰি
+sutra	s7_2	test_S1	no	no	ঘন ঘন ৰুকমিণীক মাত্ৰ ধিয়ান কয়ে ৰহল শ্ৰীকৃষ্ণ উদ্ধৱক বোলল
+sutra	s8	test_S1	no	no	হে সখি ওহি ভল্ল ভাট উনিকৰ মন পুৰিয়ে বহুবিধ প্ৰসাদ দেহু
+sutra	s9	test_S1	no	no	তদনন্তৰ শ্ৰীকৃষ্ণক আদেশে উদ্ধৱে বহুত ধন ভাটক দেলহ
+votima	v10_1	test_S1	yes	yes	বিৰহে দহনু চিত্ত
+votima	v10_2	test_S1	yes	yes	আকুল কিঞ্চিত
+votima	v10_3	test_S1	yes	yes	ওমানস মদন বিগাৰি
+votima	v11_1	test_S1	yes	yes	জগত নিৱাস
+votima	v11_2	test_S1	no	no	শ্বাস ঘনে ফোকাৰে
+votima	v11_3	test_S1	no	no	চিন্তিত ৰুকমিণী নাৰী
+votima	v12_1	test_S1	no	no	কমন উপাই
+votima	v12_2	test_S1	no	no	পাই পুনু দৰশন
+votima	v12_3	test_S1	no	no	ৰাজকুমাৰী
+votima	v1_1	test_S1	no	no	পঢ়ি পুনু ভাট চপয় কহ বাণী
+votima	v1_2	test_S1	no	no	কৃষ্ণক আগু ৰূপ বখানি
+votima	v2_1	test_S1	no	no	জয় যদুনন্দন দেৱকু দেৱা
+votima	v2_2	test_S1	no	no	তোহাৰি চৰণে কৰহোঁ বহু সেৱা
+votima	v3_1	test_S1	no	no	হামাকু কুণ্ডিন নগৰী অনুপাম
+votima	v3_2	test_S1	no	no	আছে কন্যা এক ৰুকমিণী নাম
+votima	v4_1	test_S1	no	no	কি কহব ৰমণীক ৰূপ প্ৰচুৰ
+votima	v4_2	test_S1	no	no	বয়নক হেৰি চান্দ ভেলি দূৰ
+votima	v5_1	test_S1	no	no	নয়নক পেখি পাই বৰি লাজ
+votima	v5_2	test_S1	no	no	কয়ল ঝম্প কমল জল মাজ
+votima	v6_1	test_S1	no	no	বাণী অমিয়া ৰস গুণে নোহে হীন
+votima	v6_2	test_S1	no	no	ৰাজকুমাৰীক বয়স নৱীন
+votima	v7_1	test_S1	no	no	কহলোঁ স্বৰূপ অৱ বচন বিচাৰি
+votima	v7_2	test_S1	no	no	হোৱয় গৃহিণী যৱ ৰুকমিণী নাৰী
+votima	v8_1	test_S1	no	no	কৃষ্ণ কিঙ্কৰ ওহি শঙ্কৰ বোল
+votima	v8_2	test_S1	no	no	কৰু অৱ সব নৰ হৰি হৰি বো
+votima	v9_1	test_S1	no	no	প্ৰিয়াকেৰি কাহিনী
+votima	v9_2	test_S1	no	no	শুনিয়ে মুৰাৰি
